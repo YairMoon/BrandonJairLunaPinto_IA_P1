@@ -8,4 +8,4 @@ print('Me gustan los "changuitos"')#para imprimir comillas dobles de otra manera
 print(True > False)#boleanos true= 1
 print(True < False)#false =0
 
-print("\"holap\"\n\"\"soy\"\"\n\"\"\"Jair\"\"\"")
+print("\"holap\"\n\"\"soy\"\"\n\"\"\"Jair\"\"\"") #para imprimir comillas dobles y salt

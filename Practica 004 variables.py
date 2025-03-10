@@ -11,7 +11,7 @@ print("Me gustaria llamarme " + x) #COMBINAR UNA VARIABLE CON UNA CADENA
 
 name= "Jair Brandin " #AÑADIRLE UN NUEVO VALOR A UNA VARIABLE YA EXIXTENTE
 print(name)
-name=  name + "Luna"
+name=  name + "Luna" #AÑADIRLE UN NUEVO VALOR A UNA VARIABLE YA EXIXTENTE
 print(name)
 
 

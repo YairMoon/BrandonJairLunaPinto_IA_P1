@@ -1,8 +1,8 @@
 print(5+9)
-print(2 * 3)
-print(2 * 3.)
+print(2 * 3) #multiplicacion
+print(2 * 3.)#multiplicacion
 print(2. * 3)
-print(2. * 3.)
+print(2. * 3.)#multiplicacion
 print(3 ** 2)#potencia
 print(6 // 4)#doble barra para division entera
 print(6. / 4)#una barra para division decimal
