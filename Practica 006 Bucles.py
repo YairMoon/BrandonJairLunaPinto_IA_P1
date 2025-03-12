@@ -41,3 +41,7 @@
 #     x += 1 #le sumamos 1 a x
 # else: #si no se cumple la condicion
 #     print("llegamos al", x) #imprimimos un mensaje
+
+# contador = 0# Define contador
+# valor = 100  # Define valor
+# print(contador > 0 and valor == 100) #imprime el resultado de la comparacion
