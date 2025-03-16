@@ -13,5 +13,12 @@
 # print(len(numeros)) #imprimimos el tamaño de la lista
 # print(numeros) #imprimimos la lista
 
+# numeros = [8, 5, 3, 2, 1] #creamos una lista de numeros
+# print(numeros [-2]) #imprimimos el penultimo numero de la lista
+
+
 numeros = [8, 5, 3, 2, 1] #creamos una lista de numeros
-print(numeros [-2]) #imprimimos el penultimo numero de la lista
+numeros[2]= int(input("Ingresa un numero para reemplazar al 3ro: ")) #reemplazamos el tercer numero de la lista
+del numeros[4] #eliminamos el ultimo numero de la lista
+print(len(numeros)) #imprimimos el tamaño de la lista
+print(numeros) #imprimimos la lista
